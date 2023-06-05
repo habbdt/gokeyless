@@ -19,7 +19,7 @@ require (
 	github.com/prometheus/client_golang v1.15.1
 	github.com/spf13/pflag v1.0.5
 	github.com/spf13/viper v1.0.2
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.8.4
 	github.com/uber/jaeger-client-go v2.30.0+incompatible
 	golang.org/x/crypto v0.9.0
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616
